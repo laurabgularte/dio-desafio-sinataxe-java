@@ -1,1 +1,1 @@
-# dio-desafio-sinataxe-java
+# dio-desafio-sintaxe-java
